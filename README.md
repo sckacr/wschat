@@ -9,8 +9,8 @@ $ go run main.go
 
 確認
 ```
-npm install -g wscat
-wscat -c localhost:12345 -o localhost:12345
+$ npm install -g wscat
+$ wscat -c localhost:12345 -o localhost:12345
 ```
 
 プレビュー
